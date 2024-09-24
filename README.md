@@ -12,7 +12,7 @@ Build instructions for Ubuntu(should be same for other distributions):
 4. Build 'qt-creator' details here https://doc-snapshots.qt.io/qtcreator-extending/getting-and-building.html (also you can run build from other Qt Creator).
 5. Open 'qtcreator-wakatime' project with qt creator
 6. Replace "path_to_build" with your build directory isEmpty(IDE_BUILD_TREE): IDE_BUILD_TREE = "path_to_build"
-7. Build plugin.
+7. Build plugin
 
 ## Usage
 ![preview](./preview.gif)
